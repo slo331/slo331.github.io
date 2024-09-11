@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41.5 39.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <ellipse class="cls-1" cx="20.75" cy="19.75" rx="20.75" ry="19.75"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" width="41.5" height="39.5"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-3">
+      <g class="cls-2">
+        <image width="250" height="150" transform="scale(.17 .26)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADuCAYAAAAUXsqNAAAACXBIWXMAAEK+AABCvgEQadppAAADWElEQVR4nO3cMY7iQBBA0Tb07Fk23vufYZI9DtieK4A0Vouv92KCSr6qBNjbGOMcQNF2Wz0BcB2BQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ9i8r54AuMQ+bHBIm7dN41C0n8eY/09HOnyU7bWP/R2HEx3Kpgsdok5fskHa/Doeq2cALmKDQ5jAIWzuY66eAbjEc8zt1R/VgI/jRIewedx8iw5Jhw0OaQKHsPnn8LAJNO02OJQJHMLmY5yrZwAuYoNDmMAhbI5xrJ4BeMer/y73wgdoEziECRzCpodF4cO88cu2DQ5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUPY3LbVIwDveTHa87TBoWwepxUOVXN7dd0DH8aJDmnb+T3O1UMAv2/7N7bpQocuJzqEzefqCYDL2OAQ5p9sEDbvz6/VMwCXeDjRoUzgEDbH7bF6BuAiNjiECRzC5jHuq2cALrHb4FAmcAgTOITN27mvngG4iA0OYQKHsOmlqtBlg0OYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgECZwCBM4hAkcwgQOYQKHMIFDmMAhTOAQJnAIEziECRzCBA5hAocwgUOYwCFM4BAmcAgTOIQJHMIEDmEChzCBQ5jAIUzgAPCJfgBEbCntFCOu9gAAAABJRU5ErkJggg=="/>
+      </g>
+    </g>
+  </g>
+</svg>

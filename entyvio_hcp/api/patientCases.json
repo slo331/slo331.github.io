@@ -1,0 +1,48 @@
+{
+  "patients": [
+    {
+      "name": "Rohan",
+      "diagnosis": "Bio-naïve patient with <br/>non-complicated CD <br/>and immunomodulator failure",
+      "intro":  {
+        "acknowledgements": "This virtual patient case deck was developed with the help of Dr Kariyawasam from Australia, who provided a real anonymized patient case from his clinical experience.",
+        "indication": "<p>Ulcerative colitis<br/>Entyvio® (vedolizumab) is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.</p>",
+        "crohns_disease": "<strong>Entyvio® (vedolizumab) is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.</strong>",
+        "pouchitis": "Entyvio® (vedolizumab) is indicated for the treatment of adult patients with moderately to severely active chronic pouchitis, who have undergone proctocolectomy and ileal pouch anal anastomosis for ulcerative colitis, and have had an inadequate response with or lost response to antibiotic therapy.",
+        "intended_use": "This interactive case has been developed for sales force’s 1:1 interactions with healthcare professionals and for self-navigation by healthcare professionals",
+        "url": "/rohan",
+        "footnote": "<p>TNFα: tumour necrosis factor α.<br/>Entyvio (vedolizumab). Summary of product characteristics. Available at: <a href='https://www.ema.europa.eu/en/documents/product-information/entyvio-epar-product-information_en.pdf' target='_blank'>https://www.ema.europa.eu/en/documents/product-information/entyvio-epar-product-information_en.pdf. ​Updated: September 2023.</p>",
+        "reference": [ "CD: Crohn’s disease." ] 
+      },
+      "info": {
+        "age": "29",
+        "sex": "Male",
+        "occupation": "IT manager",
+        "diagnosis": "CD",
+        "quote": "I relocated to Australia for my job. I regularly visit my family abroad, and I just want to get better so I can move back home.",
+        "reference": [ "CD: Crohn’s disease." ] 
+      },
+      "story": {
+        "desc": "Rohan experienced his first symptoms after he moved to Australia in late 2017. He was misdiagnosed with IBS and dietary intolerances.",
+        "timeline": "SVG",
+        "diagnosis_info": {
+          "first_row": {
+            "desc": "Rohan received a diagnosis of CD nearly 3 years later. He has experienced significant weight loss over the last 6 months and been absent from work on multiple occasions. He also faces the challenge of frequent long-haul journeys to visit his family abroad. He has not had any CD-related surgeries or complications and has no comorbidities. He is a social smoker.",
+          },
+          "second_row": [
+            {
+              "text_top": "Colonoscopy at diagnosis",
+              "img": "image",
+              "text_bottom": "Severe deep ulceration in the rectum, in line with severe CD"
+            },
+            {
+              "text_top": "",
+              "img": "image",
+              "text_bottom": ""
+            }
+          ]
+        },
+        "reference": [ "CD: Crohn’s disease; CDAI: Crohn’s Disease", "Activity Index; IBS: irritable bowel syndrome; SES-CD: Simple Endoscopy Score for CD." ] 
+      }
+    }
+  ]
+}
