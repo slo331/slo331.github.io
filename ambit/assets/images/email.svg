@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="twitter" width="45" height="45" transform="translate(5065 6066)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1464" data-name="Rectangle 1464" width="39.273" height="28.191" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="email" transform="translate(-5065 -6066)" clip-path="url(#clip-path)">
+    <g id="email-2" data-name="email" transform="translate(5068 6074)">
+      <g id="Group_3975" data-name="Group 3975" clip-path="url(#clip-path-2)">
+        <path id="Path_2044" data-name="Path 2044" d="M525.034,19.675l-11.8,12.066,11.8,12.065a3.56,3.56,0,0,0,.343-1.5V21.182a3.559,3.559,0,0,0-.343-1.5" transform="translate(-486.104 -17.663)" fill="#4d4d4d"/>
+        <path id="Path_2045" data-name="Path 2045" d="M487.086,14.971H455.009a3.3,3.3,0,0,0-1.461.352L468.63,30.766a3.355,3.355,0,0,0,4.841,0l15.082-15.443a3.3,3.3,0,0,0-1.466-.352" transform="translate(-451.234 -14.971)" fill="#4d4d4d"/>
+        <path id="Path_2046" data-name="Path 2046" d="M449.181,19.675a3.564,3.564,0,0,0-.343,1.507V42.3a3.561,3.561,0,0,0,.343,1.5l11.8-12.065Z" transform="translate(-448.483 -17.663)" fill="#4d4d4d"/>
+        <path id="Path_2047" data-name="Path 2047" d="M476.745,51.759l-1.67,1.719a5.594,5.594,0,0,1-8.061,0l-1.671-1.719-11.8,12.066a3.3,3.3,0,0,0,1.461.352h32.08a3.3,3.3,0,0,0,1.461-.352Z" transform="translate(-451.23 -36.023)" fill="#4d4d4d"/>
+      </g>
+    </g>
+  </g>
+</svg>

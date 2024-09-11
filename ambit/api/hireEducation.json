@@ -1,0 +1,107 @@
+{
+  "currentPage": 1,
+  "overallResults": 28,
+  "totalResults": 28,
+  "totalPages": 3,
+  "tags": [
+    {
+      "Featured": 4,
+      "News": 5,
+      "Insights": 3,
+      "Tips": 3,
+      "Spotlight": 3
+    }
+  ],
+  "listing": [
+    {
+      "title": "Ut enim ad minim veniam quis nostrud",
+      "date": "June 3, 2022",
+      "previewImage": "/assets/images/sample-hire-img_01.jpg",
+      "id": "1603",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Tips", "News" ]
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet quis minim",
+      "date": "May 30, 2022",
+      "previewImage": "/assets/images/sample-hire-img_02.jpg",
+      "id": "1602",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Featured", "News", "Spotlight" ]
+    },
+    {
+      "title": "Vivamus pretium sem sit amet gravida tristique",
+      "date": "May 27, 2022",
+      "previewImage": "/assets/images/sample-hire-img_03.jpg",
+      "id": "1601",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Featured", "Insights" ]
+    },
+    {
+      "title": "Ut enim ad minim veniam quis nostrud",
+      "date": "May 25, 2022",
+      "previewImage": "/assets/images/sample-hire-img_04.jpg",
+      "id": "1600",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Tips", "News" ]
+    },
+    {
+      "title": "‘A spotlight on careers in #MedComms’: a virtual event for aspiring healthcare communicators",
+      "date": "May 20, 2022",
+      "previewImage": "/assets/images/sample-hire-img_01.jpg",
+      "id": "1599",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Featured", "News", "Tips" ]
+    },
+    {
+      "title": "Vivamus pretium sem sit amet gravida tristique",
+      "date": "May 18, 2022",
+      "previewImage": "/assets/images/sample-hire-img_02.jpg",
+      "id": "1598",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Featured, Spotlight" ]
+    },
+    {
+      "title": "Vivamus pretium sem sit amet gravida tristique",
+      "date": "May 27, 2022",
+      "previewImage": "/assets/images/sample-hire-img_03.jpg",
+      "id": "1601",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Spotlight", "Insights" ]
+    },
+    {
+      "title": "It’s time for the North East to shine!",
+      "date": "May 25, 2022",
+      "previewImage": "/assets/images/sample-hire-img_04.jpg",
+      "id": "1600",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Insights", "News" ]
+    },
+    {
+      "title": "Ut enim ad minim veniam quis nostrud",
+      "date": "June 3, 2022",
+      "previewImage": "/assets/images/sample-hire-img_01.jpg",
+      "id": "1603",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Tips", "News" ]
+    },
+    {
+      "title": "Are your hiring processes ready for artificial intelligence (AI)?",
+      "date": "May 30, 2022",
+      "previewImage": "/assets/images/sample-hire-img_02.jpg",
+      "id": "1602",
+      "url": "/news-updates/article",
+      "searchKeywords": "",
+      "tags": [ "Featured", "News", "Spotlight" ]
+    }
+  ]
+}

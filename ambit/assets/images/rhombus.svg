@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1" height="1" viewBox="0 0 1 1">
+  <defs>
+    <clipPath id="clip-path-rhombus">
+      <path id="Path_107" data-name="Path 107" d="M145.118,374.275H144.5a.055.055,0,0,0-.049.043l-.273.856c-.015.048.011.1.049.1h.892c.029,0,.053-.032.053-.072v-.856c0-.04-.024-.072-.053-.072h0" transform="translate(-144.171 -374.275)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="rhombus" transform="translate(-144.172 -374.275)">
+    <g id="Group_196" data-name="Group 196" transform="translate(144.171 374.275)" clip-path="url(#clip-path-rhombus)">
+      <rect id="Rectangle_1647" data-name="Rectangle 1647" width="1" height="1" transform="translate(0 0.001)" fill="red"/>
+    </g>
+  </g>
+</svg>

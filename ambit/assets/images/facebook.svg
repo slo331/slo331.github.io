@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="twitter" width="45" height="45" transform="translate(5009 6063)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" transform="translate(-5009 -6063)" clip-path="url(#clip-path)">
+    <g id="facebook-2" data-name="facebook" transform="translate(5013 6067)">
+      <path id="Path_2042" data-name="Path 2042" d="M160.543.7A18.737,18.737,0,0,0,157.6,37.95V24.862h-4.758V19.441H157.6V15.315c0-4.692,2.8-7.29,7.081-7.29h.01a28.637,28.637,0,0,1,4.2.37V13h-2.364a2.706,2.706,0,0,0-3.052,2.926v3.511h5.2l-.832,5.421h-4.368v13.09A18.738,18.738,0,0,0,160.543.7" transform="translate(-141.788 -0.705)" fill="#4d4d4d"/>
+    </g>
+  </g>
+</svg>
