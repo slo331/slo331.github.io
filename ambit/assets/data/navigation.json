@@ -2,49 +2,49 @@
   "primaryNav": [
     {
       "name": "Home",
-      "url": "/",
+      "url": "../",
       "page": "home"
     },
     {
       "name": "Clients",
-      "url": "/clients",
+      "url": "../clients",
       "page": "clients",
       "subnav": [
         {
           "name": "Identify",
-          "url": "/clients/identify",
+          "url": "../clients/identify",
           "page": "identify"
         },
         {
           "name": "Attract",
-          "url": "/clients/attract",
+          "url": "../clients/attract",
           "page": "attract"
         },
         {
           "name": "Engage",
-          "url": "/clients/engage",
+          "url": "../clients/engage",
           "page": "engage"
         }
       ]
     },
     {
       "name": "Professionals",
-      "url": "/professionals",
+      "url": "../professionals",
       "page": "professionals"
     },
     {
       "name": "Job search",
-      "url": "/job-search",
+      "url": "../job-search",
       "page": "job-search"
     },
     {
       "name": "News and updates",
-      "url": "/news-updates",
+      "url": "../news-updates",
       "page": "news-updates"
     },
     {
       "name": "Careers at Ambit",
-      "url": "/careers-ambit",
+      "url": "../careers-ambit",
       "page": "careers-ambit"
     }
   ]
