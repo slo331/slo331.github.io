@@ -1,0 +1,80 @@
+{
+  "pager": {
+    "currentPage": 1,
+    "itemsPerPage": 10,
+    "noOfPages": 2,
+    "totalResults": 15
+  },
+  "system": {
+    "page_key": "page"
+  },
+  "product": {
+    "name": "Epidiolex<sup>\u00ae<\/sup>",
+    "content": null,
+    "resources": [
+      {
+        "title": "Full U.S. Prescribing Information",
+        "link": "https:\/\/jazzmedical-us-en-dev-us16dev.delta.jazzpharmadev.com\/sites\/default\/files\/2024-05\/epidiolex.en_.uspi_.pdf",
+        "external": false
+      }
+    ]
+  },
+  "listing": {
+    "list": [
+      {
+        "categories": [
+          "Standard Response Letter"
+        ],
+        "title": "Epidiolex and Purity",
+        "published": "May 29, 2024",
+        "authors": [],
+        "link": "\/sites\/default\/files\/2024-05\/digital_portal_cbd-gen-us-purity.pdf",
+        "external": false
+      },
+      {
+        "categories": [
+          "Standard Response Letter"
+        ],
+        "title": "Epidiolex use with Nasogastric and Gastrostomy Feeding Tubes",
+        "published": "May 29, 2024",
+        "authors": [],
+        "link": "\/sites\/default\/files\/2024-05\/digital_portal_cbd-adm-hcp-us-nasogastric_and_gastrostomy_fe.pdf",
+        "external": false
+      },
+      {
+        "categories": [
+          "Standard Response Letter"
+        ],
+        "title": "Epidiolex and Food, Liquids, and other Agents",
+        "published": "May 29, 2024",
+        "authors": [],
+        "link": "\/sites\/default\/files\/2024-05\/digital_portal_cbd-adm-hcp-us-administration_with_food_or_mi.pdf",
+        "external": false
+      },
+      {
+        "categories": [
+          "Standard Response Letter"
+        ],
+        "title": "Epidiolex and Maximum Dose",
+        "published": "May 29, 2024",
+        "authors": [],
+        "link": "\/sites\/default\/files\/2024-05\/digital_portal_cbd-dos-hcp-us-maximum_dose.pdf",
+        "external": false
+      },
+      {
+        "categories": [
+          "Standard Response Letter"
+        ],
+        "title": "Epidiolex and Unit Dose Storage",
+        "published": "May 29, 2024",
+        "authors": [],
+        "link": "\/sites\/default\/files\/2024-05\/digital_portal_cbd-stg-us-unit_dose_storage_syringe.pdf",
+        "external": false
+      }
+    ]
+  },
+  "noOfPages": 2,
+  "totalResults": 15,
+  "currentPage": 1,
+  "itemsPerPage": 10
+}

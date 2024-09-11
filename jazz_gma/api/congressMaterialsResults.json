@@ -1,0 +1,97 @@
+{
+	"pager": {
+    "currentPage": 0,
+    "itemsPerPage": 10,
+    "noOfPage": 1,
+    "totalResults": 9
+  },
+	"types": [
+		"Neuroscience",
+		"Hematology-Oncology"
+	],
+	"listing": {
+		"list": [
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title lorem ipsum dolor sit amet",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "neuroscience",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors-2.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title lorem ipsum dolor sit amet atos sit anim",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "neuroscience",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors-2.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "neuroscience",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors-2.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			},
+			{
+				"area": "hematology-oncology",
+				"date": "September 22-24, 2023",
+				"location": "Manchester, UK",
+				"imgBannerPath": "assets/images/card-banner-investors.png",
+				"heading": "Congress Title",
+				"link": "congress-materials/congress-title",
+				"external": false
+			}
+		]
+	}
+}

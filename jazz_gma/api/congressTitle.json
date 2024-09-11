@@ -1,0 +1,37 @@
+{
+  "totalResults": 3,
+  "title": "Congress Title (Acronym)",
+  "date": "September 22-24, 2023",
+  "location": "Manchester, UK",
+  "content": "Congress Title (Full)",
+  "category": ["Neuroscience", "Hematology-Oncology"],
+  "materialType": ["Poster", "Oral Presentation"],
+  "listing" : {
+    "list": [
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "authors": ["Lorem", "Ipsum"],
+        "category": "hematology-oncology",
+        "type": "Poster",
+        "link": "#",
+        "external": true
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "authors": ["Lorem", "Ipsum"],
+        "category": "neuroscience",
+        "type": "Oral Presentation",
+        "link": "#",
+        "external": true
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "authors": ["Lorem", "Ipsum"],
+        "category": "hematology-oncology",
+        "type": "Poster",
+        "link": "#",
+        "external": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "pager": {
+    "currentPage": 0,
+    "itemsPerPage": 10,
+    "noOfPage": 1,
+    "totalResults": 9
+  },
+  "types": ["Neuroscience", "Hematology-Oncology"],
+  "listing": {
+    "recentlyAdded": [
+      {
+        "type": "Hematology-Oncology",
+        "startDate": "20/03/2023",
+        "endDate": "19/03/2024",
+        "title": "New Rules for VOD/SOS: Modern Risk Assessment, Diagnostic Principles, and Innovative Treatment",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["VOD", "Online"],
+          "medicalEducationProvider": "Medical College of Wisconsin"
+        },
+        "link": "#",
+        "external": false
+      },
+      {
+        "type": "Neuroscience",
+        "startDate": "19/10/2022",
+        "endDate": "01/03/2024",
+        "title": "Navigating the Diagnosis and Treatment of Patients with Narcolepsy and Cardiovascular Risk",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["SLEEP", "Online"],
+          "medicalEducationProvider": "Tarsus Cardio"
+        },
+        "link": "#",
+        "external": false
+      },
+      {
+        "type": "Hematology-Oncology",
+        "startDate": "20/03/2023",
+        "endDate": "19/03/2024",
+        "title": "New Rules for VOD/SOS: Modern Risk Assessment, Diagnostic Principles, and Innovative Treatment",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["VOD", "Online"],
+          "medicalEducationProvider": "Medical College of Wisconsin"
+        },
+        "link": "#",
+        "external": false
+      }
+    ],
+    "list": [
+      {
+        "type": "Neuroscience",
+        "startDate": "19/10/2022",
+        "endDate": "01/03/2024",
+        "title": "Navigating the Diagnosis and Treatment of Patients with Narcolepsy and Cardiovascular Risk",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["SLEEP", "Online"],
+          "medicalEducationProvider": "Tarsus Cardio"
+        },
+        "link": "#",
+        "external": true
+      },
+      {
+        "type": "Hematology-Oncology",
+        "startDate": "20/03/2023",
+        "endDate": "19/03/2024",
+        "title": "New Rules for VOD/SOS: Modern Risk Assessment, Diagnostic Principles, and Innovative Treatment",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["VOD", "Online"],
+          "medicalEducationProvider": "Medical College of Wisconsin"
+        },
+        "link": "#",
+        "external": true
+      },
+      {
+        "type": "Neuroscience",
+        "startDate": "19/10/2022",
+        "endDate": "01/03/2024",
+        "title": "Navigating the Diagnosis and Treatment of Patients with Narcolepsy and Cardiovascular Risk",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["SLEEP", "Online"],
+          "medicalEducationProvider": "Tarsus Cardio"
+        },
+        "link": "#",
+        "external": true
+      },
+      {
+        "type": "Hematology-Oncology",
+        "startDate": "20/03/2023",
+        "endDate": "19/03/2024",
+        "title": "New Rules for VOD/SOS: Modern Risk Assessment, Diagnostic Principles, and Innovative Treatment",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["VOD", "Online"],
+          "medicalEducationProvider": "Medical College of Wisconsin"
+        },
+        "link": "#",
+        "external": true
+      },
+      {
+        "type": "Neuroscience",
+        "startDate": "19/10/2022",
+        "endDate": "01/03/2024",
+        "title": "Navigating the Diagnosis and Treatment of Patients with Narcolepsy and Cardiovascular Risk",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["SLEEP", "Online"],
+          "medicalEducationProvider": "Tarsus Cardio"
+        },
+        "link": "#",
+        "external": true
+      },
+      {
+        "type": "Hematology-Oncology",
+        "startDate": "20/03/2023",
+        "endDate": "19/03/2024",
+        "title": "New Rules for VOD/SOS: Modern Risk Assessment, Diagnostic Principles, and Innovative Treatment",
+        "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare porta hendrerit. Mauris lobortis eros sed finibus ornare. Vestibulum id elit vitae est dictum cursus. Curabitur quis ipsum ut est efficitur porta. Phasellus porttitor justo non dolor auctor, nec auctor lorem blandit. Phasellus finibus at nisl in viverra.",
+        "categories": {
+          "category": ["VOD", "Online"],
+          "medicalEducationProvider": "Medical College of Wisconsin"
+        },
+        "link": "#",
+        "external": true
+      }
+    ]
+  }
+}

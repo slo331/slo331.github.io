@@ -1,0 +1,34 @@
+{
+  "primaryNav": [
+    {
+      "name": "Our Medicines",
+      "url": "https://www.jazzpharma.com/medicines/our-medicines/",
+      "external": true
+    },
+    {
+      "name": "Pipeline",
+      "url": "https://www.jazzpharma.com/science/pipeline/",
+      "external": true
+    },
+    {
+      "name": "Publications",
+      "url": "/publications",
+      "external": false
+    },
+    {
+      "name": "Congress Materials",
+      "url": "/congress-materials",
+      "external": false
+    },
+    {
+      "name": "Standard Responses",
+      "url": "/standard-response-letters",
+      "external": false
+    },
+    {
+      "name": "Medical Education",
+      "url": "/medical-education",
+      "external": false
+    }
+  ]
+}

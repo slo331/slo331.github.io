@@ -1,0 +1,85 @@
+{
+  "pager": {
+    "currentPage": 0,
+    "itemsPerPage": 10,
+    "noOfPages": 5,
+    "totalResults": 50
+  },
+  "product": {
+    "name": "Epidiolex<sup>\u00ae<\/sup>",
+    "content": "Lorem ipsum",
+    "resources": [
+      {
+        "title": "Download full U.S. Prescribing Information",
+        "link": "#",
+        "external": true
+      },
+      {
+        "title": "Download Patient Information",
+        "link": "#",
+        "external": true
+      }
+    ]
+  },
+  "listing": {
+    "type": "publications",
+    "list": [
+      {
+        "categories": ["Publication", "Congress Material"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication"],
+        "title": "Internal link lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "August 05, 2022",
+        "authors": [],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "July 28, 2022",
+        "authors": ["Lorem", "Ipsum", "Dolor"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication", "Congress Material"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication"],
+        "title": "Internal link lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "August 05, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "July 28, 2022",
+        "authors": ["Lorem", "Ipsum", "Dolor"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Publication", "Congress Material"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim.",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      }
+    ]
+  }
+}

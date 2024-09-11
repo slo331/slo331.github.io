@@ -1,0 +1,109 @@
+{
+  "pager": {
+    "currentPage": 1,
+    "itemsPerPage": 10,
+    "noOfPage": 2,
+    "totalResults": 10
+  },
+  "product": {
+    "name": "Epidiolex<sup>\u00ae<\/sup>",
+    "content": "Lorem ipsum",
+    "resources": [
+      {
+        "title": "Download full U.S. Prescribing Information",
+        "link": "#",
+        "external": true
+      },
+      {
+        "title": "Download Patient Information",
+        "link": "#",
+        "external": true
+      }
+    ]
+  },
+  "listing": {
+    "type": "documents",
+    "list": [
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 1",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 2",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 3",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 4",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 5",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 6",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 7",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 8",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 9",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      },
+      {
+        "categories": ["Scientific Response Letter"],
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis tellus quam. Nullam convallis mollis felis, laoreet rutrum nisl aliquam non. Suspendisse semper venenatis quam et dignissim. 10",
+        "published": "August 19, 2022",
+        "authors": ["Lorem", "Ipsum"],
+        "link": "#",
+        "external": true
+      }
+    ]
+  }
+}
