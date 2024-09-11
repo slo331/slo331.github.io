@@ -12,22 +12,22 @@
     },
     {
       "name": "Publications",
-      "url": "/publications",
+      "url": "/jazz_gma/publications",
       "external": false
     },
     {
       "name": "Congress Materials",
-      "url": "/congress-materials",
+      "url": "/jazz_gma/congress-materials",
       "external": false
     },
     {
       "name": "Standard Responses",
-      "url": "/standard-response-letters",
+      "url": "/jazz_gma/standard-response-letters",
       "external": false
     },
     {
       "name": "Medical Education",
-      "url": "/medical-education",
+      "url": "/jazz_gma/medical-education",
       "external": false
     }
   ]
